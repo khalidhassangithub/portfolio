@@ -1,0 +1,35 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "project-transport",
+      "description": "Real-Time Public Transport Tracking System dashboard",
+      "imageUrl": "https://picsum.photos/seed/transport/800/600",
+      "imageHint": "transport tracking"
+    },
+    {
+      "id": "project-android-management",
+      "description": "Android research management application interface",
+      "imageUrl": "https://picsum.photos/seed/management/800/600",
+      "imageHint": "android app"
+    },
+    {
+      "id": "project-data-science",
+      "description": "Data science visualization and analysis forecasting",
+      "imageUrl": "https://picsum.photos/seed/datascience/800/600",
+      "imageHint": "data visualization"
+    },
+    {
+      "id": "project-ml-app",
+      "description": "Machine learning integrated mobile application",
+      "imageUrl": "https://picsum.photos/seed/mlapp/800/600",
+      "imageHint": "machine learning"
+    },
+    {
+      "id": "profile-pic",
+      "description": "Professional headshot placeholder",
+      "imageUrl": "https://picsum.photos/seed/khalid/400/400",
+      "imageHint": "professional man"
+    }
+  ]
+}
